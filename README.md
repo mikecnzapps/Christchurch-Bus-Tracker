@@ -1,8 +1,8 @@
-# Christchurch-Bus-Tracker
+# CHCH Bus Tracker
 Know whether to stroll or sprint. Live bus departures for Christchurch stops.
 
 
-Bus Tracker shows live departures for the stops you actually use, and tells you at a glance whether you can stroll or need to run.
+CHCH Bus Tracker shows live departures for the stops you actually use, and tells you at a glance whether you can stroll or need to run.
 
 Set your home stop and one other stop, pick the routes you care about, and the app does the rest. No account, no sign-up, no clutter.
 
@@ -29,4 +29,4 @@ No accounts. No advertising. No tracking. No location permission. Your stops and
 
 Real-time and timetable information is sourced from Environment Canterbury's public transport open data, licensed under Creative Commons Attribution 4.0.
 
-Bus Tracker is an independent app. It is not affiliated with, endorsed by, or connected to Environment Canterbury or its public transport service MetroInfo. Times and services are shown for convenience only. Always allow extra time for your journey.
+CHCH Bus Tracker is an independent app. It is not affiliated with, endorsed by, or connected to Environment Canterbury or its public transport service MetroInfo. Times and services are shown for convenience only. Always allow extra time for your journey.
